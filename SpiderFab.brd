@@ -175,6 +175,7 @@
 <text x="7.239" y="41.402" size="1.778" layer="21">+</text>
 <text x="14.224" y="41.402" size="1.778" layer="21">-</text>
 <text x="9.779" y="41.402" size="1.27" layer="21">GND</text>
+<text x="50.8" y="16.51" size="1.016" layer="21" rot="R90" align="bottom-center">RESET</text>
 </plain>
 <libraries>
 <library name="SparkFun-Connectors" urn="urn:adsk.eagle:library:513">
